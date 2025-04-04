@@ -25,7 +25,7 @@
       <th>Circuit Diagram</th><th>PCB Layouts</th><th>Circuit Schematic</th>
   </tr>
   <tr align="center">
-     <td><img src="./img/Circuit Diagram.png"  high="200" width="200"  alt="Circuit Diagram"></td>
+     <td><img src="./img/Circuit Diagram.png"  high="200" width="250"  alt="Circuit Diagram"></td>
      <td><img src="./img/PCB.png" width="300" alt="PCB Layouts"></td>
      <td><img src="./img/Circuit Schematic.png" width="300" alt="Circuit Schematic"></td>
   </tr>
