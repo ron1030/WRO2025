@@ -13,7 +13,7 @@
       <th> Circuit Board Top View</th><th>Circuit Board Button View</th>
   </tr>
   <tr align="center">
-     <td> <img src="../Circuit_Design/img/circuitboardup.png" width="300" alt="circuit_up"> </td><td><img src="../Circuit_Design/img/circuitboardback.png" width="300" alt="circuit_lower.jpg"></td>
+     <td> <img src="../Circuit_Design/img/circuitboardup.png" width="300" alt="circuit_up"> </td><td><img src="../Circuit_Design/img/circuitboardback.png" width="300" high="300"  alt="circuit_lower.jpg"></td>
   </tr>
 </table>
 </div>
