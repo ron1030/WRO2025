@@ -1,38 +1,46 @@
 <div align="center"><img src="../../other/img/logo.png" width="300" alt=" logo"></div>
 
 ## <div align="center">3D Vehicle Model Design</div>
+__中文__
+- 這次比賽使用的車輛底盤是我們自主研發設計的。以下將介紹車輛底盤的設計與生產流程。
+- 我們使用Onshape設計車輛的3D模型結構，並根據底盤的特點，使用雷射切割機和立體光刻（SLA）3D列印機等設備製造必要的車輛零件。
 
-Based on the lessons learned from last year, we upgraded the main controller of the self-driving car from the "Raspberry Pi 4B" to the "Nvidia Jetson Nano" to enhance the speed of obstacle recognition. In addition, we optimized the front steering structure of the vehicle, making the turning operations more flexible and smoother. To better cope with the current competition tasks, we made significant adjustments and improvements to the design and structure of the self-driving car, enhancing overall performance and stability.
-
-The vehicle chassis used in this competition is our in-house, self-developed design. The following will introduce the vehicle chassis design and production process.
-
-We use Onshape to design the 3D model structure of the vehicle, and based on the chassis's characteristics, we manufacture the necessary vehicle parts using equipment such as laser cutting machines and Stereolithography (SLA) 3D Printer.
+__英文__
+- The vehicle chassis used in this competition is our in-house, self-developed design. The following will introduce the vehicle chassis design and production process.
+- We use Onshape to design the 3D model structure of the vehicle, and based on the chassis's characteristics, we manufacture the necessary vehicle parts using equipment such as laser cutting machines and Stereolithography (SLA) 3D Printer.
 <div align=center>
     <table>
     <tr>
-    <th>2023 model using Raspberry Pi </th>
-    <th>2024 model using Jetson Nano</th>
+    <th>2024 舊版/Old version </th>
+    <th>2025 新版/New version</th>
     </tr><tr>
-    <td><img src="./img/2023CARleft.png" width="250" alt="Vehicle_cad"></td> 
-    <td><img src="../../v-photos/img/top.png" width="250" alt="vehicle Underfloor"></td> 
+    <td><img src="./img/2023CARleft.png" width="300" alt="Vehicle_cad"></td> 
+    <td><img src="../../v-photos/img/top.png" width="300" alt="vehicle Underfloor"></td> 
     </tr>
     </table>
  </div> 
 
 - ### Onshape Model Draft
+  - #### 3D建模軟體--Onshape介紹
   - #### 3D modeling software -- Onshape Introduction
-    - We use Onshape to design 3D models of self-driving cars. Onshape is a free and easy-to-use web-based CAD software.
-    - After creating a model in Onshape, you can output a 2D dimension drawing, which can then be sent to a laser-cutting machine for cutting or converted and sent to a 3D printer for output.
-    - All 3D/2D vehicle models created for this competition were designed in OnShape.
-    - Software Website：[Onshape](https://www.onshape.com/en/) 
+  __中文__
+  - 我們使用 Onshape 設計自動駕駛汽車的 3D 模型。 Onshape 是一款免費且易於使用的基於網路的 CAD 軟體。
+  - 在Onshape中建立模型後，可以輸出2D尺寸圖，然後可以將其發送到雷射切割機進行切割，或轉換後發送到3D列印機進行輸出。
+  - 本次競賽創建的所有 3D/2D 車輛模型均在 OnShape 中設計。
+
+  __英文__
+  - We use Onshape to design 3D models of self-driving cars. Onshape is a free and easy-to-use web-based CAD software.
+  - After creating a model in Onshape, you can output a 2D dimension drawing, which can then be sent to a laser-cutting machine for cutting or converted and sent to a 3D printer for output.
+  - All 3D/2D vehicle models created for this competition were designed in OnShape.
+  - Software Website：[Onshape](https://www.onshape.com/en/) 
     <div align=center>
     <table>
     <tr>
-    <th>Onshape Website </th>
-    <th>3D CAD drawing of vehicle chassis components</th>
+    <th>Onshape 網站/Onshape Website </th>
+    <th>車輛底盤部件的 3D CAD 繪圖/3D CAD drawing of vehicle chassis components</th>
 
     </tr><tr>
-    <td><img src="./img/onshape.jpg" width="450" alt="Vehicle_cad"></td> 
+    <td><img src="./img/onshape.jpg" width="670" alt="Vehicle_cad"></td> 
     <td><img src="./Vehicle_Chassis_CAD_File/img/onshape_3D_model_CAD.png" width="450" alt="vehicle Underfloor"></td> 
 
     </tr>
