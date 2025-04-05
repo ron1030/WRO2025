@@ -43,12 +43,19 @@
     - EasyEDA can be used directly in a web browser without the need for software installation, making it cross-platform accessible. It supports circuit design, simulation, PCB creation, and also allows teams to collaborate on electronic projects.
 
     __The main features of EasyEDA include:__
+    - 原理圖設計：使用其廣泛的元件庫設計電路圖，其中包括電阻器、電容器、電晶體、積體電路 (IC) 等。原理圖設計：使用其廣泛的元件庫設計電路圖，其中包括電阻器、電容器、電晶體、積體電路 (IC) 等。
     - Schematic Design: Design circuit diagrams using its extensive component library, which includes resistors, capacitors, transistors, integrated circuits (ICs), and more.Schematic Design: Design circuit diagrams using its extensive component library, which includes resistors, capacitors, transistors, integrated circuits (ICs), and more.
+    - PCB 設計：支援多層 PCB 設計並提供自動佈線功能，幫助使用者有效率地佈局電路板。
     - PCB Design: Supports multi-layer PCB design and provides an auto-routing feature to help users efficiently layout their boards.
+    - 類比：內建的 SPICE 模擬允許使用者在製造之前虛擬測試電路。
     - Simulation: Built-in SPICE simulation allows users to virtually test circuits before manufacturing.
+    - 元件庫：提供龐大的元件庫，並支援從其他 CAD 工具匯入零件或建立自訂元件。
     - Component Library: Offers a vast component library and supports importing parts from other CAD tools or creating custom components.
+    - 協作工具：允許使用者與隊友分享設計以進行協同工作。
     - Collaboration Tools: Allows users to share designs with teammates for collaborative work.
+    - 雲端儲存：設計文件可以保存在雲端，方便從任何地方修改和訪問，並方便與團隊成員的協作。
     - Cloud Storage: Design files can be saved in the cloud, making it easy to modify and access from anywhere, as well as facilitating collaboration with team members.
+    - 製造集成：EasyEDA 與 JLCPCB 無縫集成，允許用戶直接提交設計進行生產並輕鬆訂購客製化 PCB。
     - Manufacturing Integration: EasyEDA is seamlessly integrated with JLCPCB, allowing users to directly submit designs for production and easily order custom PCBs.
 
     __Overall, EasyEDA is a powerful and easy-to-use tool for electronic design. Whether you're a beginner or a professional engineer, it offers features to meet your needs. Its cloud-based accessibility, simple operation, and integration with manufacturers make it an excellent choice for designing and producing electronic circuits.__
