@@ -57,8 +57,8 @@
  <div align=center>
     <table>
     <tr>
-    <th>EasyEDA of Official website.</th>
-    <th>Schematic Design</th>
+    <th>EasyEDA 官方網站/EasyEDA of Official website.</th>
+    <th>方案設計/Schematic Design</th>
     </tr><tr>
     <td><img src="./img/EasyEDA.png" width="400" alt="EasyEDA of Official website. "></td>
     <td><img src="./img/EasyEDA1.png" width="400" alt="Schematic Design"></td>
