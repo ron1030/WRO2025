@@ -22,7 +22,7 @@
 <div align="center">
 <table>
   <tr align="center">
-      <th>Circuit Diagram</th><th>PCB Layouts</th><th>Circuit Schematic</th>
+      <th>電路圖/Circuit Diagram</th><th>PCB佈局圖/PCB Layouts</th><th>原理圖/Circuit Schematic</th>
   </tr>
   <tr align="center">
      <td><img src="./img/Circuit Diagram.png"  width="300"  alt="Circuit Diagram"></td>
