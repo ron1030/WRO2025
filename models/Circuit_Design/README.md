@@ -1,11 +1,13 @@
 <div align="center"><img src="../../other/img/logo.png" width="300" alt=" logo"></div>
 
  ## <div align="center"> Circuit Design </div>
+  __中文__
   - 在我們自動駕駛車輛的電路板設計中，我們採用EasyEDA這款電路設計軟體，它提供了直觀的圖形化介面。這項工具能顯著提升焊接過程中的佈線準確度，減少錯誤發生，並有效降低元件燒毀的風險。
-  - For our autonomous vehicle's circuit board design, we employ EasyEDA, a circuit design software that provides an intuitive graphical interface. This aids significantly in the soldering process by enhancing wiring accuracy, reducing errors, and effectively mitigating the risk of component burnout.
   - 在實驗過程中，我們經常需要修改電路設計。為了便於快速調整與修改，我們採用通用型酚醛電路板，依照電路原理圖進行電子元件的焊接作業。這種實驗方法能為電路優化提供更高的設計彈性與操作便利性。
-  - During our experiments, we frequently needed to modify the circuit. To facilitate adjustments and revisions, we used a general-purpose phenolic board to solder electronic components according to the circuit diagram. This approach offers greater flexibility and convenience in circuit improvements.
   - 電路板的主要功能在於為各類感測器、馬達及控制器提供電力與訊號連接，確保這些元件之間能夠實現無縫通訊與協同運作。
+  __英文__
+  - For our autonomous vehicle's circuit board design, we employ EasyEDA, a circuit design software that provides an intuitive graphical interface. This aids significantly in the soldering process by enhancing wiring accuracy, reducing errors, and effectively mitigating the risk of component burnout.
+  - During our experiments, we frequently needed to modify the circuit. To facilitate adjustments and revisions, we used a general-purpose phenolic board to solder electronic components according to the circuit diagram. This approach offers greater flexibility and convenience in circuit improvements.
   - The primary function of a circuit board is to provide power and signal connections for various sensors, motors, and controllers, ensuring seamless communication and cooperation among them.
 
  - ### Circuit Board
@@ -65,7 +67,7 @@
     - Manufacturing Integration: EasyEDA is seamlessly integrated with JLCPCB, allowing users to directly submit designs for production and easily order custom PCBs.
      
     __總體而言，EasyEDA 是一款功能強大且易於使用的電子設計工具。無論您是初學者還是專業工程師，它都能提供滿足需求的功能。其基於雲端的存取便利性、簡潔的操作流程，以及與製造商的無縫整合，使其成為設計與生產電子電路的絕佳選擇。__
-    
+
     __Overall, EasyEDA is a powerful and easy-to-use tool for electronic design. Whether you're a beginner or a professional engineer, it offers features to meet your needs. Its cloud-based accessibility, simple operation, and integration with manufacturers make it an excellent choice for designing and producing electronic circuits.__
 
     - Software link：[EasyEDA](https://easyeda.com/)
