@@ -43,7 +43,8 @@
     - EasyEDA can be used directly in a web browser without the need for software installation, making it cross-platform accessible. It supports circuit design, simulation, PCB creation, and also allows teams to collaborate on electronic projects.
 
     __The main features of EasyEDA include:__
-    __中文中文__ 
+
+    __中文__ 
     - 原理圖設計：使用其廣泛的元件庫設計電路圖，其中包括電阻器、電容器、電晶體、積體電路 (IC) 等。原理圖設計：使用其廣泛的元件庫設計電路圖，其中包括電阻器、電容器、電晶體、積體電路 (IC) 等。
     - PCB 設計：支援多層 PCB 設計並提供自動佈線功能，幫助使用者有效率地佈局電路板。
     - 類比：內建的 SPICE 模擬允許使用者在製造之前虛擬測試電路。
