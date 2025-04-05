@@ -38,6 +38,8 @@
 - ### Supplementary Information
  
  - #### EasyEDA Introduction
+    - __EasyEDA__ 是一款免費的線上電子設計自動化 (EDA) 軟體，用於設計、類比電子電路和建立印刷電路板 (PCB)。它提供了簡單且用戶友好的圖形介面，並具有多種功能，使其成為業餘愛好者和專業工程師的理想選擇。
+    - EasyEDA 可直接在網頁瀏覽器中使用，無需安裝軟體，可跨平台存取。它支援電路設計、模擬、PCB創建，還允許團隊合作進行電子專案。
 
     __EasyEDA__ is a free online Electronic Design Automation (EDA) software used for designing, simulating electronic circuits, and creating printed circuit boards (PCBs). It offers a simple and user-friendly graphical interface, with a variety of features that make it ideal for both hobbyists and professional engineers.
     - EasyEDA can be used directly in a web browser without the need for software installation, making it cross-platform accessible. It supports circuit design, simulation, PCB creation, and also allows teams to collaborate on electronic projects.
@@ -52,6 +54,7 @@
     - 協作工具：允許使用者與隊友分享設計以進行協同工作。
     - 雲端儲存：設計文件可以保存在雲端，方便從任何地方修改和訪問，並方便與團隊成員的協作。
     - 製造集成：EasyEDA 與 JLCPCB 無縫集成，允許用戶直接提交設計進行生產並輕鬆訂購客製化 PCB。
+
     __英文__
     - Schematic Design: Design circuit diagrams using its extensive component library, which includes resistors, capacitors, transistors, integrated circuits (ICs), and more.Schematic Design: Design circuit diagrams using its extensive component library, which includes resistors, capacitors, transistors, integrated circuits (ICs), and more.
     - PCB Design: Supports multi-layer PCB design and provides an auto-routing feature to help users efficiently layout their boards.
@@ -60,7 +63,8 @@
     - Collaboration Tools: Allows users to share designs with teammates for collaborative work.
     - Cloud Storage: Design files can be saved in the cloud, making it easy to modify and access from anywhere, as well as facilitating collaboration with team members.
     - Manufacturing Integration: EasyEDA is seamlessly integrated with JLCPCB, allowing users to directly submit designs for production and easily order custom PCBs.
-
+     
+    __總體而言，EasyEDA 是一款功能強大且易於使用的電子設計工具。無論您是初學者還是專業工程師，它都能提供滿足需求的功能。其基於雲端的存取便利性、簡潔的操作流程，以及與製造商的無縫整合，使其成為設計與生產電子電路的絕佳選擇。__
     __Overall, EasyEDA is a powerful and easy-to-use tool for electronic design. Whether you're a beginner or a professional engineer, it offers features to meet your needs. Its cloud-based accessibility, simple operation, and integration with manufacturers make it an excellent choice for designing and producing electronic circuits.__
 
     - Software link：[EasyEDA](https://easyeda.com/)
