@@ -27,7 +27,7 @@
   <tr align="center">
      <td><img src="./img/Circuit Diagram.png"  width="300"  alt="Circuit Diagram"></td>
      <td><img src="./img/PCB.png" width="295" alt="PCB Layouts"></td>
-     <td><img src="./img/Circuit Schematic.png" width="350" alt="Circuit Schematic"></td>
+     <td><img src="./img/Circuit Schematic.png" width="320" alt="Circuit Schematic"></td>
   </tr>
 </table>
 </div>
