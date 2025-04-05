@@ -65,6 +65,7 @@
     - Manufacturing Integration: EasyEDA is seamlessly integrated with JLCPCB, allowing users to directly submit designs for production and easily order custom PCBs.
      
     __總體而言，EasyEDA 是一款功能強大且易於使用的電子設計工具。無論您是初學者還是專業工程師，它都能提供滿足需求的功能。其基於雲端的存取便利性、簡潔的操作流程，以及與製造商的無縫整合，使其成為設計與生產電子電路的絕佳選擇。__
+    
     __Overall, EasyEDA is a powerful and easy-to-use tool for electronic design. Whether you're a beginner or a professional engineer, it offers features to meet your needs. Its cloud-based accessibility, simple operation, and integration with manufacturers make it an excellent choice for designing and producing electronic circuits.__
 
     - Software link：[EasyEDA](https://easyeda.com/)
