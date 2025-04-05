@@ -2,7 +2,7 @@
 
  ## <div align="center"> Circuit Design </div>
   - 在我們自動駕駛車輛的電路板設計中，我們採用EasyEDA這款電路設計軟體，它提供了直觀的圖形化介面。這項工具能顯著提升焊接過程中的佈線準確度，減少錯誤發生，並有效降低元件燒毀的風險。
-  - For our autonomous vehicle's circuit board design, we employ EasyEDA, a circuit design software that provides an intuitive graphical interface. This aids significantly in the soldering process by enhancing wiring accuracy, reducing errors, and effectively mitigating the risk of component burnout.
+   For our autonomous vehicle's circuit board design, we employ EasyEDA, a circuit design software that provides an intuitive graphical interface. This aids significantly in the soldering process by enhancing wiring accuracy, reducing errors, and effectively mitigating the risk of component burnout.
   - During our experiments, we frequently needed to modify the circuit. To facilitate adjustments and revisions, we used a general-purpose phenolic board to solder electronic components according to the circuit diagram. This approach offers greater flexibility and convenience in circuit improvements.
   - The primary function of a circuit board is to provide power and signal connections for various sensors, motors, and controllers, ensuring seamless communication and cooperation among them.
 
